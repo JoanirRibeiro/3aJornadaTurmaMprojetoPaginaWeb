@@ -24,3 +24,9 @@ body {
     text-align: center;
     color: #90A67B;
 }
+
+#logo {
+    width: 300px;
+    margin: 0;
+    padding: 0;
+}
