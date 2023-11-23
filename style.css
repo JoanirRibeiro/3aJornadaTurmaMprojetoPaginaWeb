@@ -34,7 +34,7 @@ body {
 .cabecalho {
     background-color: #0C134F;
     margin: 0;
-    padding: 10%;
+    padding: 5%;
 }
 
 .conteudo {
@@ -46,5 +46,5 @@ body {
 .rodape{
     background-color: #D4ADFC;
     margin: 0;
-    padding: 10%;
+    padding: 5%;
 }
