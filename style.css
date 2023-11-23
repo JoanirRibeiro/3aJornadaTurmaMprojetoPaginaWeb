@@ -30,3 +30,15 @@ body {
     margin: 0;
     padding: 0;
 }
+
+.cabecalho {
+    background-color: #0C134F;
+}
+
+.conteudo {
+    background-color: #5C469C;
+}
+
+.rodape{
+    background-color: #D4ADFC;
+}
