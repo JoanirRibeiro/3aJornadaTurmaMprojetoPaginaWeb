@@ -33,12 +33,18 @@ body {
 
 .cabecalho {
     background-color: #0C134F;
+    margin: 0;
+    padding: 10%;
 }
 
 .conteudo {
     background-color: #5C469C;
+    margin: 0;
+    padding: 10%;
 }
 
 .rodape{
     background-color: #D4ADFC;
+    margin: 0;
+    padding: 10%;
 }
