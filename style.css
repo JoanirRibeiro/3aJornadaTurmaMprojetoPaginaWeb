@@ -31,7 +31,7 @@
     color: white;
     border-bottom: 5px solid #D4ADFC;
     justify-content: space-around;
-    display: flex;
+    display: inline-flex;
 }
 
 .conteudo {
